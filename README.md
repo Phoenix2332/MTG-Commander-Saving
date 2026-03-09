@@ -1,4 +1,5 @@
 # MTG-Commander-Saving
 
 ---
-MadeBy: Álvaro Ruiz
+Made-By: Álvaro Ruiz
+GitHub-User: Phoenix2332
